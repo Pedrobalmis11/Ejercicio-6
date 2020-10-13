@@ -31,7 +31,7 @@
                MouseEnter="cartel_MouseEnter"
                MouseLeave="cartel_MouseLeave"
                Width="231" />
-
+    
         <Image x:Name="episodioVIImage"
                HorizontalAlignment="Left"
                Height="331"
